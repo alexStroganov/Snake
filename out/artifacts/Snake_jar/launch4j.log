@@ -1,0 +1,16 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\jod\IdeaProjects\Snake\out\artifacts\Snake_jar\Snake.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\jod\IdeaProjects\Snake\out\artifacts\Snake_jar\.
+Java min ver:	
+Java max ver:	
+Bundled JRE(s):	C:\Program Files (x86)\Java\jre1.8.0_301
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_301\bin\javaw.exe (OK)
+Main class:	main.java.SnakeGame
+Info:		Classpath not defined.
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_301\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\jod\IdeaProjects\Snake\out\artifacts\Snake_jar\Snake.exe" main.java.SnakeGame
+Args length:	98/32768 chars
+Exit code:	0
